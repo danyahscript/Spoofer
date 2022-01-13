@@ -1,6 +1,6 @@
 # Spoofer
 
-Spoofer is a basic scanner that can check the number of devices connected to your network by obtaining their local IP and MAC addresses.
+Spoofer is a basic scanner that can listen to a target network to scan for link-layer ( local IP and MAC ) addresses.
 
 
 `Syntax : python <filename> <option> <IP of the default gateway>/<Subnet>`
