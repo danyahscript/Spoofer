@@ -5,7 +5,9 @@ Spoofer is a basic scanner that can check the number of devices connected to you
 
 `Syntax : python <filename> <option> <IP of the default gateway>/<Subnet>`
 
-> NOTE : This tool require root/admin privileges "runs in the command-line"
+> NOTE : Running this tool require root/admin privileges "runs in the command-line"
+
+
   
 This tool require both libraries :
 
