@@ -11,7 +11,9 @@ Spoofer is a basic scanner that can check the number of devices connected to you
 This tool require both libraries argparse and scapy:
   
   ```
-  pip install argparse
-  pip install scapy
+  $ pip install argparse
+  ```
+  ```
+  $ pip install scapy
   ```
   
