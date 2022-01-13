@@ -8,7 +8,7 @@ Spoofer is a basic scanner that can check the number of devices connected to you
 
 > NOTE : This tool require root/admin privileges "runs in the command-line"
   
-> This tool require both libraries argparse and scapy:
+This tool require both libraries argparse and scapy:
   
   ```
   pip install argparse
