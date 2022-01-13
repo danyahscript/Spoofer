@@ -1,4 +1,4 @@
-# Spoofer { learning purposes only } 
+# Spoofer
 
 Spoofer is a basic scanner that can check the number of devices connected to your network by obtaining their local IP and MAC addresses.
 1. Spoofer.py
@@ -6,8 +6,10 @@ Spoofer is a basic scanner that can check the number of devices connected to you
 - [ ] [Syntax : python <filename> <option> <IP of the default gateway>/<Subnet>]
 - [x] NOTE : This tool require root/admin privileges "runs in the command-line"
   
-> This tool require both libraries:
+> This tool require both libraries argparse and scapy:
   
-  1. argparse (pip install argparse)
-  2. scapy (pip install scapy) 
+  ```
+  pip install argparse
+  scapy (pip install scapy
+  ```
   
