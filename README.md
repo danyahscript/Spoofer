@@ -1,6 +1,6 @@
 # Spoofer
 
-Spoofer is a basic scanner that scans a target network to obtain the link-layer ( local IP and MAC ) addresses of the connected client's by sending a falsified ARP packet.
+Spoofer is a basic scanner that scans a target network to obtain the link-layer ( local IP and MAC ) addresses of the connected hosts by sending a falsified ARP packet.
 
 
 `Syntax : python <filename> <option> <IP of the default gateway>/<Subnet>`
